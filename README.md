@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋! Mi nombre es Nicolás Mendoza, soy un Front-End developer de Perú</h2>
+<h2 align="center">Hola 👋! Mi nombre es Nicolás Mendoza, soy un Front-End developer de Perú</h2>
 
 <br clear="both">
 
