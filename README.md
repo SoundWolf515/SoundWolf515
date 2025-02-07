@@ -2,14 +2,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <!---
-  <img src="https://github-readme-stats.vercel.app/api?username=SoundWolf515&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=synthwave&locale=es&hide_border=false&order=1&custom_title=Mis%20Stats" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SoundWolf515&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=synthwave&hide_border=false&order=2" height="100" alt="languages graph"  />
-  -->
-  <img src="https://streak-stats.demolab.com?user=SoundWolf515&locale=en&mode=daily&theme=synthwave&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
 ###
 <div align="center">
   <a href="https://www.linkedin.com/in/fabricio-nicolas-gutierrez-mendoza/" target="_blank">
