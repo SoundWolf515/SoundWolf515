@@ -5,7 +5,7 @@
 </p>
 
 <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=1000&pause=2000&center=true&vCenter=true&width=1920&height=50&lines=Bienvenido;I'm Wolf;よろしくね" alt="Typing SVG" />
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&pause=750&center=true&vCenter=true&width=435&lines=Bienvenido;I'm+Wolf;%E3%82%88%E3%82%8D%E3%81%97%E3%81%8F%E3%81%AD" alt="Writing text" /></a>
 </h2>
 
 <h5 align="center">
