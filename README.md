@@ -62,9 +62,7 @@ ___
 ---
 
 <h2 align="center">Repositories</h2>
-<div width="100%" align="center">
-  <a align="right" href="https://github.com/SoundWolf515/educational-process-management-system" title="educational-process-management-system"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SoundWolf515&repo=educational-process-management-system&theme=react&border_color=61dafb&border_radius=10"></a>
-</div>
+  <a width="100%" align="center" href="https://github.com/SoundWolf515/educational-process-management-system" title="educational-process-management-system"><img align="center" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=SoundWolf515&repo=educational-process-management-system&theme=react&border_color=61dafb&border_radius=10"></a>
 
 <h4 align="center">
     <a href="https://github.com/SoundWolf515?tab=repositories" title="Show Repositories">More projects here</a>
